@@ -2,3 +2,6 @@ Rencana tambahan
 - belajar C++
 - belajar python
 - belajar Javascript
+- tambahan 1
+- tambahan 2
+- tambahan 3
