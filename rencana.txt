@@ -1,0 +1,4 @@
+Rencana tambahan
+- belajar C++
+- belajar python
+- belajar Javascript
